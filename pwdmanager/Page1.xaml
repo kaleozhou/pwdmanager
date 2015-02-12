@@ -1,0 +1,28 @@
+﻿<Page
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="pwdmanager.Page1"
+	x:Name="Page"
+	WindowTitle="Page"
+	FlowDirection="LeftToRight"
+	Width="640" Height="480"
+	WindowWidth="640" WindowHeight="480">
+
+	<Grid x:Name="LayoutRoot">
+		<Grid HorizontalAlignment="Center" Height="100" VerticalAlignment="Top" Width="450" Margin="100,72,90,0">
+			<Button Content="添加" HorizontalAlignment="Left" Margin="0,55.09,0,0" VerticalAlignment="Top" Width="75"/>
+			<Button Content="删除" HorizontalAlignment="Left" Margin="106,55.09,0,0" VerticalAlignment="Top" Width="75"/>
+		</Grid>
+		<Grid HorizontalAlignment="Center" Height="100" VerticalAlignment="Top" Width="450" Margin="100,177,90,0">
+			<DataGrid HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" SelectionChanged="DataGrid_SelectionChanged">
+				<DataGrid.Columns>
+                    <DataGridCheckBoxColumn Binding="{Binding AccountInfoId}" Header="序号"/>
+                    <DataGridTextColumn Binding="{Binding AccountInfoName}"  Header="账户名称"/>
+                    <DataGridTextColumn Binding="{Binding AccountInfoLink}"  Header="账户链接"/>
+                    <DataGridTextColumn Binding="{Binding  AccountInfoPwd}"  Header="账户密码"/>
+                    <DataGridTextColumn Binding="{Binding AccountInfoStatus}"  Header="账户状态"/>
+				</DataGrid.Columns>
+			</DataGrid>
+		</Grid>
+	</Grid>
+</Page>

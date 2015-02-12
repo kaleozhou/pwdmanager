@@ -1,0 +1,9 @@
+D:\kaleosoft\pwdmanager\DBUtility\bin\Debug\Maticsoft.DBUtility.dll
+D:\kaleosoft\pwdmanager\DBUtility\bin\Debug\Maticsoft.DBUtility.pdb
+D:\kaleosoft\pwdmanager\DBUtility\bin\Debug\IBatisNet.Common.dll
+D:\kaleosoft\pwdmanager\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+D:\kaleosoft\pwdmanager\DBUtility\bin\Debug\MySql.Data.dll
+D:\kaleosoft\pwdmanager\DBUtility\bin\Debug\System.Data.SQLite.DLL
+D:\kaleosoft\pwdmanager\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+D:\kaleosoft\pwdmanager\DBUtility\obj\Debug\Maticsoft.DBUtility.dll
+D:\kaleosoft\pwdmanager\DBUtility\obj\Debug\Maticsoft.DBUtility.pdb

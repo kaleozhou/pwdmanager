@@ -1,0 +1,9 @@
+D:\kaleosoft\pwdmanager\Common\bin\Debug\Maticsoft.Common.dll
+D:\kaleosoft\pwdmanager\Common\bin\Debug\Maticsoft.Common.pdb
+D:\kaleosoft\pwdmanager\Common\bin\Debug\COM.Excel.dll
+D:\kaleosoft\pwdmanager\Common\bin\Debug\Excel.dll
+D:\kaleosoft\pwdmanager\Common\bin\Debug\OpenSmtp.dll
+D:\kaleosoft\pwdmanager\Common\bin\Debug\OWC10Chart.dll
+D:\kaleosoft\pwdmanager\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\kaleosoft\pwdmanager\Common\obj\Debug\Maticsoft.Common.dll
+D:\kaleosoft\pwdmanager\Common\obj\Debug\Maticsoft.Common.pdb
