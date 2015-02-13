@@ -7,3 +7,12 @@ D:\kaleosoft\pwdmanager\Common\bin\Debug\OWC10Chart.dll
 D:\kaleosoft\pwdmanager\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
 D:\kaleosoft\pwdmanager\Common\obj\Debug\Maticsoft.Common.dll
 D:\kaleosoft\pwdmanager\Common\obj\Debug\Maticsoft.Common.pdb
+D:\SourceCode\pwdmanager\Common\bin\Debug\Maticsoft.Common.dll
+D:\SourceCode\pwdmanager\Common\bin\Debug\Maticsoft.Common.pdb
+D:\SourceCode\pwdmanager\Common\bin\Debug\COM.Excel.dll
+D:\SourceCode\pwdmanager\Common\bin\Debug\Excel.dll
+D:\SourceCode\pwdmanager\Common\bin\Debug\OpenSmtp.dll
+D:\SourceCode\pwdmanager\Common\bin\Debug\OWC10Chart.dll
+D:\SourceCode\pwdmanager\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\SourceCode\pwdmanager\Common\obj\Debug\Maticsoft.Common.dll
+D:\SourceCode\pwdmanager\Common\obj\Debug\Maticsoft.Common.pdb

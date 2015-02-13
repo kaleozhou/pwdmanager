@@ -3,3 +3,8 @@ D:\kaleosoft\pwdmanager\Model\bin\Debug\Maticsoft.Model.pdb
 D:\kaleosoft\pwdmanager\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
 D:\kaleosoft\pwdmanager\Model\obj\Debug\Maticsoft.Model.dll
 D:\kaleosoft\pwdmanager\Model\obj\Debug\Maticsoft.Model.pdb
+D:\SourceCode\pwdmanager\Model\bin\Debug\Maticsoft.Model.dll
+D:\SourceCode\pwdmanager\Model\bin\Debug\Maticsoft.Model.pdb
+D:\SourceCode\pwdmanager\Model\obj\Debug\Maticsoft.Model.dll
+D:\SourceCode\pwdmanager\Model\obj\Debug\Maticsoft.Model.pdb
+D:\SourceCode\pwdmanager\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
