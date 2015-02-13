@@ -65,3 +65,9 @@ D:\SourceCode\pwdmanager\pwdmanager\bin\Debug\Maticsoft.Common.pdb
 D:\SourceCode\pwdmanager\pwdmanager\bin\Debug\Maticsoft.Model.pdb
 D:\SourceCode\pwdmanager\pwdmanager\bin\Debug\Maticsoft.DAL.pdb
 D:\SourceCode\pwdmanager\pwdmanager\bin\Debug\Maticsoft.DBUtility.pdb
+D:\SourceCode\pwdmanager\pwdmanager\obj\Debug\Page2.baml
+D:\SourceCode\pwdmanager\pwdmanager\obj\Debug\Page2.g.cs
+D:\SourceCode\pwdmanager\pwdmanager\obj\Debug\Page3.baml
+D:\SourceCode\pwdmanager\pwdmanager\obj\Debug\Page4.baml
+D:\SourceCode\pwdmanager\pwdmanager\obj\Debug\Page3.g.cs
+D:\SourceCode\pwdmanager\pwdmanager\obj\Debug\Page4.g.cs

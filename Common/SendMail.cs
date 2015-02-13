@@ -93,7 +93,13 @@ namespace Maticsoft.Common
             #region//设置邮件信息
             MailMessage message = new MailMessage();//实例化邮件主体
             message.From = new MailAddress(userName + "@qq.com", authorName);//发信人地址
-            message.To.Add(new MailAddress(to, authorName));//收信人地址
+            var tolist = to.Split(',');
+            foreach (var item in tolist)
+            {
+                message.To.Add(new MailAddress(item, authorName));//收信人地址
+                
+            }
+            //message.To.Add(new MailAddress(to, authorName));//收信人地址
             message.Subject = subject;//邮件主题
             message.Body = body;//邮件主体：正文
             message.IsBodyHtml = true;//主体是否是html格式
